@@ -1,0 +1,57 @@
+/* CSS contiene tanto el H1, como imagen y la info */
+.contenedor-personaje {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+}
+
+.nombre-personaje {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: white;
+  background-color: yellowgreen;
+  color: black;
+  width: 700px;
+  height: 69px;
+  font-size: large;
+}
+
+.contenedor-imagen-personaje {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contenedor-info-personaje {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 38px;
+  background-color: black;
+  color: white;
+  width: 700px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 400;
+  font-size: 1.7em;
+}
+
+.boton-atras-inicio {
+  color: white;
+  background-color: black;
+  height: 90px;
+  width: 280px;
+  margin: 3px 44px 144px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: xx-large;
+  border-radius: 780px;
+  border-color: black;
+}
+
+img {
+  width: 700px;
+}

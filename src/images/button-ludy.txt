@@ -1,0 +1,42 @@
+.button-cerrar-sesion{
+
+   width: 150px;
+
+   height: 40px;
+
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+   cursor: pointer;
+
+   font-size: 13px;
+
+   align-items: center;
+
+   margin: 25px auto;
+
+   margin-right: 35px;
+
+   justify-content: center;
+
+   border: 1px solid;
+
+   color: grey;
+
+   background: linear-gradient(to left, transparent 50%, rgb(214, 70, 70) 50%) no-repeat right/ 200%;
+
+   
+
+}
+
+
+
+
+.button-cerrar-sesion:hover{
+
+   background-position: left;
+
+   color: rgb(233, 172, 59, 0.4);
+
+   color: white;
+
+}
